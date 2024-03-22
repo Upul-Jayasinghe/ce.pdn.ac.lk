@@ -22,4 +22,6 @@ navbar_active: Join Us
     <p><a href="https://forms.gle/GKpRW1Cv8KSPRDvs8">Apply Here</a></p>
     
     <p>Note: You can apply without IELTS results and submit the IELTS later if you are shortlisted.</p>
+
+    <embed src="assets/pdf/Advertisement_RMIT_UJ.pdf" width="800px" height="600px" />
 </div>
